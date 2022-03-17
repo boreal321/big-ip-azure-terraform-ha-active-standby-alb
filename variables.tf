@@ -48,8 +48,6 @@ variable image_name { default = "f5-big-all-2slot-byol" }
 variable bigip_version { default = "15.1.400000" }
 
 # BIGIP Setu
-variable license1 { default = "UHUFD-RESRE-KZUMD-QRUPK-PCIIOCQ" }
-variable license2 { default = "KZNRD-RFEIE-MJJDK-BXUBP-ODDGBLC" }
 variable host1_name { default = "f5vm01" }
 variable host2_name { default = "f5vm02" }
 variable dns_server { default = "8.8.8.8" }
